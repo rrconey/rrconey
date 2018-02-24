@@ -1,0 +1,22 @@
+{
+  "name": "rrconey",
+  "version": "1.0.0",
+  "description": "new 2018 website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coneyisld/rrconey.git"
+  },
+  "keywords": [
+    "coney"
+  ],
+  "author": "roscoe robert coney III",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coneyisld/rrconey/issues"
+  },
+  "homepage": "https://github.com/Coneyisld/rrconey#readme"
+}
