@@ -28,7 +28,7 @@ var roscoe = {
  height: "6foot7",
  hometown: "Philadelphia, PA",
  currently: "Oakland, CA",
- goal: "Earn a private pilot license(PPL) & be called Captain Coney!"
+ goal: "Earn a private pilot license(PPL) so ya can call me Captain Coney in the future!"
 }
 ```
 
