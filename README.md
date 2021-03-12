@@ -17,14 +17,14 @@
 var roscoe = {
   pronouns: "he" | "him",
   code: [Javascript, C#, Rails, Golang],
-  tools: [React-native, Redux, Node, Heroku, AWS, Docker],
+  tools: [React_native, Redux, Node, Heroku, Aws, Docker],
   architecture: ["microservices", "event-driven", "design system pattern", "RESTful API"],
   techCommunities: {
                         hack_reactor: "Alumni",
                         outco: "Alumni",
                         blacktocats: "Active"
                       },
- challenge: "Everything"
+ challenge: "Everything",
  height: "6foot7",
  hometown: "Philadelphia, PA",
  currently: "Oakland, CA",
