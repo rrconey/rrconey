@@ -4,7 +4,7 @@
 
 <p style="font-size: 31px">
     <em>Software Enginner at </em>
-    <a href="http://www.unb.br">GitHub</a>
+    <a href="https://github.com/">GitHub</a>
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32">
 </p>
 
