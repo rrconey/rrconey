@@ -1,7 +1,8 @@
-<h2> Hello ~ via Roscoe. </h2>
-<img align="center" src="https://media.giphy.com/media/eMsdwTiWGnCnQ12HMd/giphy.gif" width="200">
+## Hello ~ via Roscoe.
 
-<p style="font-size: 17px">
+![MoonJumper](https://media.giphy.com/media/kCE58S0T4byONdnLhl/giphy.gif)
+
+<p style="font-size: 31px">
     <em>Software Enginner at </em>
     <a href="http://www.unb.br">GitHub</a>
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32">
