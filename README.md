@@ -5,7 +5,7 @@
 <p style="font-size: 30px">
     <em>Software Enginner at </em>
     <a href="https://github.com/">GitHub</a>
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+    <img src="./gifs/octocat.gif" width="30">
 </p>
 
 
