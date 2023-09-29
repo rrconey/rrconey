@@ -23,7 +23,7 @@ function generateReadMe() {
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
       if (err) throw err;
       USERS.forEach((user) => {
-        full_output += Mustache.render(data.toString(), user) + "\n";  
+        full_output += Mustache.render(data.toString(), user) + "<br>";  
         //My name is Roscoe I currently work at GitHub as a Software Engineer >> blacktocat([@rrconey](https://github.com/rrconey))
       });
       fs.writeFileSync(EXPORT_FILE, full_output);
