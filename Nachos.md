@@ -1,4 +1,15 @@
-My name is Roscoe the kid! and today is Friday, 29 September at 06:12 CEST, I currently work at GitHub as a blacktocat(rrconey).
-Working as a Software Engineer.
-
-Link to my profile: [@rrconey](https://github.com/rrconey)
+My name is Shelley I currently work at GitHub as a Accounting Assistant I >> blacktocat([@scadd0](https://github.com/scadd0))
+My name is Alejoa I currently work at GitHub as a Help Desk Technician >> blacktocat([@abartalucci1](https://github.com/abartalucci1))
+My name is Barbaraanne I currently work at GitHub as a Human Resources Assistant IV >> blacktocat([@bpaolo2](https://github.com/bpaolo2))
+My name is Jeanine I currently work at GitHub as a Legal Assistant >> blacktocat([@jmurdy3](https://github.com/jmurdy3))
+My name is Evey I currently work at GitHub as a Librarian >> blacktocat([@edrewery4](https://github.com/edrewery4))
+My name is Trisha I currently work at GitHub as a Actuary >> blacktocat([@tjerrand5](https://github.com/tjerrand5))
+My name is Tabby I currently work at GitHub as a Office Assistant IV >> blacktocat([@tdonson6](https://github.com/tdonson6))
+My name is Joanie I currently work at GitHub as a Professor >> blacktocat([@jmateja7](https://github.com/jmateja7))
+My name is Shea I currently work at GitHub as a Administrative Assistant I >> blacktocat([@sbauldrey8](https://github.com/sbauldrey8))
+My name is Winfred I currently work at GitHub as a Research Associate >> blacktocat([@wbarg9](https://github.com/wbarg9))
+My name is Monika I currently work at GitHub as a Geological Engineer >> blacktocat([@mshoutea](https://github.com/mshoutea))
+My name is Thia I currently work at GitHub as a Executive Secretary >> blacktocat([@tashmoleb](https://github.com/tashmoleb))
+My name is Pincas I currently work at GitHub as a Compensation Analyst >> blacktocat([@ptomlinsc](https://github.com/ptomlinsc))
+My name is Aloysius I currently work at GitHub as a Nuclear Power Engineer >> blacktocat([@ameriotd](https://github.com/ameriotd))
+My name is Gail I currently work at GitHub as a Human Resources Manager >> blacktocat([@gshoutte](https://github.com/gshoutte))
