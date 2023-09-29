@@ -9,7 +9,6 @@ const EXPORT_FILE = "Nachos.md"
 /**
   * USERS is an array of objects that contains all
   * the data to be provided to Mustache
-  * Notice the "name" and "date" property.
 */
 let DATA = USERS
 
