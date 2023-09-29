@@ -2,12 +2,12 @@
 const Mustache = require('mustache');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
-const USERS = require('./data')
+const USERS = require('./users')
 
 const EXPORT_FILE = "Nachos.md"
 
 /**
-  * DATA is the object that contains all
+  * USERS is an array of objects that contains all
   * the data to be provided to Mustache
   * Notice the "name" and "date" property.
 */
@@ -23,7 +23,7 @@ function generateReadMe() {
     let full_output = ""
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
       if (err) throw err;
-      DATA.forEach((user) => {
+      USERS.forEach((user) => {
         full_output += Mustache.render(data.toString(), user) + "\n";  
         //My name is Roscoe I currently work at GitHub as a Software Engineer >> blacktocat([@rrconey](https://github.com/rrconey))
       });
