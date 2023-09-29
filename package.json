@@ -9,6 +9,9 @@
   "author": "roscoe",
   "license": "ISC",
   "dependencies": {
+    "markdown-table": "^3.0.3",
+    "markdown-table-prettify": "^3.6.0",
+    "markdown-table-ts": "^1.0.3",
     "mustache": "^4.2.0",
     "path": "^0.12.7"
   }

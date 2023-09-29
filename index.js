@@ -1,5 +1,6 @@
 // index.js
 const Mustache = require('mustache');
+const { Align, getMarkdownTable } = require('markdown-table-ts');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 const EXPORT_FILE = "Nachos.md"
@@ -40,7 +41,27 @@ function generateReadMe() {
 			full_output += Mustache.render(data.toString(), user) + "<br>";
 			//My name is Roscoe I currently work at GitHub as a Software Engineer >> blacktocat([@rrconey](https://github.com/rrconey))
 		});
-		fs.writeFileSync(EXPORT_FILE, full_output);
+
+    var len = USERS.length, output = [];
+    for(var i = 0; i < len; i++){
+      output.push([USERS[i].handle, USERS[i].title])
+    }
+
+    const table = getMarkdownTable({
+      table: {
+        head: ['Handle', 'Area of Responsibility'],
+        body: output,
+      },
+      alignment: [Align.Left, Align.Right],
+    });
+
+    let obj = {first: 1,
+            second: 2
+    }.toString()
+
+		fs.writeFileSync(EXPORT_FILE, table);
+
+
 	});
 }
 
